@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NLP.Demo.NeuralNet": {
+      "commandName": "Project",
+      "commandLineArgs": "helloworld2 asdf asdf2 "
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLP.Demo.NeuralNet", "NLP.Demo.NeuralNet\NLP.Demo.NeuralNet.csproj", "{3733A415-064C-4874-BF82-8B674A604F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLP.Demo.Api", "NLP.Demo.Api\NLP.Demo.Api.csproj", "{14F96C39-5A36-4548-85F3-27209E9ED851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3733A415-064C-4874-BF82-8B674A604F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3733A415-064C-4874-BF82-8B674A604F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3733A415-064C-4874-BF82-8B674A604F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3733A415-064C-4874-BF82-8B674A604F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14F96C39-5A36-4548-85F3-27209E9ED851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F96C39-5A36-4548-85F3-27209E9ED851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F96C39-5A36-4548-85F3-27209E9ED851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F96C39-5A36-4548-85F3-27209E9ED851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {028D3D7F-7158-4B05-BE25-F86C5C468014}
+	EndGlobalSection
+EndGlobal
